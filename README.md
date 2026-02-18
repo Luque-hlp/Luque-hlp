@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Angel Andrey Luque Parada</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 🔭 I’m currently working in **PUTEADERO GISELLE**
+- 🔭 I’m currently working in **Campusland**
 
-- 🌱 I’m currently learning **CHUPAPITO**
+- 🌱 I’m currently learning **Scrum**
 
-- 👯 I’m looking to collaborate on **A TRAVESTIS SHOW**
+- 👯 I’m looking to collaborate on **a workteam from scrum**
 
-- 🤝 I’m looking for help with **MY GONORREA, SIFILIS**
+- 🤝 I’m looking for help with **my friends**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Luque-hlp](https://github.com/Luque-hlp)
 
-- 📫 How to reach me **LUJURYCHUPAPENE.hack@gmail.com**
+- 📫 How to reach me **lujury.hack@gmail.com**
 
-- ⚡ Fun fact **I think i am GAY person, BUT NO BODY KNOWS AND I LOVE A GUY IN CAMPUSLANDS**
+- ⚡ Fun fact **I think i am kind person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
